@@ -16,3 +16,6 @@ O projeto será dividido em algumas seções (ou outras que eu achar interessant
 Espero que este projeto seja útil para mim e para quem quiser acompanhar. 
 
 Até a próxima!
+
+E a próxima já chegou 
+Estou editando do mobile para fazer teste.
