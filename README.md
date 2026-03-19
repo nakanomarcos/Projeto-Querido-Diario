@@ -6,7 +6,7 @@ Registro público do meu dia a dia, estudos e evoluções.
 ## Índice
 - [Diário](Diario/)
 - Reflexões (em breve)
-- Estudando (em breve)
+- [Estudando](Estudando/)
 - Metas (em breve)
 - Projetos (em breve)
 - Links (em breve)
