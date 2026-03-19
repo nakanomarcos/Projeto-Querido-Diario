@@ -4,7 +4,7 @@ Registro público do meu dia a dia, estudos e evoluções.
 **Por quê?** Acompanhar progresso e criar hábito de commits. [web:13]
 
 ## Índice
-- [Diário](diario/)
+- [Diário](Diario/)
 - [Reflexões](reflexoes/)
 - [Metas](metas/)
 - [Projetos](projetos/)
