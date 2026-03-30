@@ -14,5 +14,6 @@ Registro público do meu dia a dia, estudos e evoluções.
 - Vídeos (em breve)
 - Áudios (em breve)
 - Outros (em breve)
+- [Mapas Mentais](Estudando/)
 - 
 Última entrada: [19/03/2026](diario/2026-03-19.md)
