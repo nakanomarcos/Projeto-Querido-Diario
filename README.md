@@ -15,5 +15,5 @@ Registro público do meu dia a dia, estudos e evoluções.
 - Áudios (em breve)
 - Outros (em breve)
 - [Mapas Mentais](Estudando/)
-- Repositórios(https://github.com/nakanomarcos/novo_CNPJ_2026.git)
+- [Repositórios](https://github.com/nakanomarcos/novo_CNPJ_2026.git)
 Primeira entrada: [19/03/2026](diario/2026-03-19.md)
